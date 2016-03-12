@@ -1,6 +1,6 @@
 # Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Web Performance Optimization. Everyone can contribute here!
+A curated list of Web Performance Optimization. Everyone can contribute here!  
 web性能优化的相关资源，欢迎大家积极参与丰富它！
 
 ## Categories
